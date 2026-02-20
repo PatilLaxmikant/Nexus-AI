@@ -93,9 +93,3 @@ Run the entire stack with a single command:
 ```bash
 docker-compose up --build
 ```
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-MIT License
