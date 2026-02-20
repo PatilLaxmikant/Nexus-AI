@@ -43,7 +43,6 @@ This is an advanced, AI-powered coding platform designed to provide a "Cursor-li
 1.  **Clone the repository**
     ```bash
     git clone https://github.com/PatilLaxmikant/Nexus-AI.git
-    cd vibe-coding-platform
     ```
 
 2.  **Backend Setup**
