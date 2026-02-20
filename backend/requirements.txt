@@ -1,0 +1,22 @@
+fastapi
+uvicorn
+python-dotenv
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+chromadb
+requests
+pypdf
+# Optional but used in core_tools
+wikipedia
+duckduckgo-search
+beautifulsoup4
+deep-translator
+langdetect
+psutil
+pytest
+httpx
+pytest-asyncio
+langfuse
