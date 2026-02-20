@@ -153,7 +153,7 @@ import string
 load_dotenv()
 
 # Configuration
-API_KEY = 'AIzaSyAGgLPfn4a-jIWBhtX4PLJxyIbXqiI8iIU'
+API_KEY = ''
 # API_KEY = os.getenv("GEMINI_API_KEY")
 BASE_URL = "https://generativelanguage.googleapis.com/v1beta/openai/"
 
