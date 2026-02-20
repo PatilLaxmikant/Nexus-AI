@@ -1,6 +1,7 @@
 # Vibe Coding Platform (Nexus AI) 🚀
 
-This is an advanced, AI-powered coding platform designed to provide a "Cursor-like" experience directly in your browser. It combines a powerful AI agent with a full IDE-like interface, allowing you to chat, code, run commands, and preview your work seamlessly.
+This is an advanced, AI-powered coding platform with 40+ tools designed to provide a "Cursor-like" experience directly in your browser. It combines a powerful AI agent with a full IDE-like interface, allowing you to chat, code, run commands, and preview your work seamlessly.
+
 
 ![Vibe Coding Platform](https://placehold.co/800x400?text=Vibe+Coding+Platform)
 
